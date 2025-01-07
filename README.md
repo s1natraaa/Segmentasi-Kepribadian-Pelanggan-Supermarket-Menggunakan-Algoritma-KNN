@@ -1,0 +1,2 @@
+# Segmentasi_Kepribadian_Pelanggan_Supermarket
+Segmentasi_Kepribadian_Pelanggan_Supermarket_untuk_Mengidentifikasi_ROI_Terbesar_Menggunakan_Algoritma_KNN
